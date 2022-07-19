@@ -1,2 +1,2 @@
-# rn-pokedex
-Pokédex desarrollada con Reeact Native mediante Expo
+# RN-Pokédex
+Pokédex desarrollada con React Native mediante Expo
